@@ -1,0 +1,52 @@
+[
+  {
+    "name": "One obsession_Anima",
+    "creator": "maxfeifei8",
+    "url": "https://civitai.com/models/2695493",
+    "permissions": {
+      "allowNoCredit": false,
+      "allowCommercialUse": [
+        "RentCivit"
+      ],
+      "allowDerivatives": false,
+      "allowDifferentLicense": true
+    },
+    "license_mentions": [],
+    "retrieved": "2026-09-16"
+  },
+  {
+    "name": "Anima Detail Tweaker",
+    "creator": "lse14",
+    "url": "https://civitai.com/models/2620171",
+    "permissions": {
+      "allowNoCredit": false,
+      "allowCommercialUse": [
+        "RentCivit",
+        "Rent",
+        "Image"
+      ],
+      "allowDerivatives": true,
+      "allowDifferentLicense": true
+    },
+    "license_mentions": [],
+    "retrieved": "2026-09-16"
+  },
+  {
+    "name": "TURBO for ANIMA (less steps)",
+    "creator": "n_Arno",
+    "url": "https://civitai.com/models/2619830",
+    "permissions": {
+      "allowNoCredit": false,
+      "allowCommercialUse": [
+        "RentCivit"
+      ],
+      "allowDerivatives": true,
+      "allowDifferentLicense": false
+    },
+    "license_mentions": [
+      " 💖   Legal   The CircleStone Model is licensed by CircleStone Labs LLC under the CircleStone Non-Commercial License",
+      " Copyright CircleStone Labs LLC"
+    ],
+    "retrieved": "2026-09-16"
+  }
+]

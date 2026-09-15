@@ -1,0 +1,15 @@
+Anima Comic Studio 1.2.6 - Third-party notices
+
+The CircleStone Model is licensed by CircleStone Labs LLC under the CircleStone Non-Commercial License. Copyright CircleStone Labs LLC.
+IN NO EVENT SHALL CIRCLESTONE LABS LLC BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH USE OF THIS MODEL.
+
+Model rights are granted directly by CircleStone Labs LLC under licenses/Anima-LICENSE.md. This bundle does not grant additional commercial rights. Model weights are included without modification by this packager.
+
+One obsession_Anima - maxfeifei8 - https://civitai.com/models/2695493
+Anima Detail Tweaker - lse14 - https://civitai.com/models/2620171
+TURBO for ANIMA (less steps) - n_Arno - https://civitai.com/models/2619830
+Permission metadata retrieved 2026-09-16: licenses/model-rights-snapshot.json
+Base model: https://huggingface.co/circlestone-labs/Anima
+ComfyUI: https://github.com/Comfy-Org/ComfyUI
+
+Third-party software retains its own license and copyright notices in engine, runtime and ui_vendor. This is an independent bundle, not an official release endorsed by model authors.
